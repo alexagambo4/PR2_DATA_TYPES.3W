@@ -1,4 +1,5 @@
 # PR2_DATA_TYPES.3W
+
 #Practica 2 de la función
 #Data type
 
